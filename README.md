@@ -24,8 +24,6 @@
 
 ## 🚩 Projects:
 - [Discord-Addons <img src="https://discord-addons.js.org/img/favicon.png" width="24"/>](https://discord-addons.js.org/)
-- [VoltBot <img src="https://voltbot.xyz/img/logo.png" width="24"/>](https://voltbot.xyz)
-- [FortniteFrance <img src="https://www.fortnite-france.fr/wp-content/themes/fortniteFrance/assets/images/esports/logo.png" width="24"/>](https://www.fortnite-france.fr/)
 
 ---
 
