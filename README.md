@@ -23,6 +23,8 @@
 ---
 
 ## 🚩 Projects:
+- [DJS-Giveaways](https://github.com/FreiikDev/djs-giveaways)
+- [Screenshot Embedder](https://github.com/FreiikDev/ScreenshotEmbedder)
 - [Discord-Addons <img src="https://discord-addons.js.org/img/favicon.png" width="24"/>](https://discord-addons.js.org/)
 
 ---
