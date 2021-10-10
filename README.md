@@ -2,7 +2,7 @@
 
 <img align="right" alt="Freiik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=freiikdev&show_icons=true&hide_border=true" />
 
-- 💻 I'm a Student, a young Developer
+- 💻 High school student @ Developer
 - 🥖 I love french bread
 
 ---
