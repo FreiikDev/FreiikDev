@@ -8,10 +8,6 @@
 &nbsp;
 \
 &nbsp;
-\
-&nbsp;
-\
-&nbsp;
 - 💻 High school student @ Developer
 - 🥖 I love french bread
 ---
