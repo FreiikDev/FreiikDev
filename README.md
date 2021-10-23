@@ -1,7 +1,7 @@
 <h1><img src="https://cdn.discordapp.com/emojis/853981345305722880.gif" width="35"/> Hi there, I'm Freiik</h1>
 
-<a href="https://github.com/FreiikDev"><img align="right" alt="Freiik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FreiikDev&show_icons=true&theme=discord_old_blurple" /></a>
 <a href="https://github.com/FreiikDev"><img alt="Freiik's Github Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreiikDev&layout=compact&theme=discord_old_blurple" /></a>
+<a href="https://github.com/FreiikDev"><img align="right" alt="Freiik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FreiikDev&show_icons=true&theme=discord_old_blurple" /></a>
 
 - 💻 High school student @ Developer
 - 🥖 I love french bread
