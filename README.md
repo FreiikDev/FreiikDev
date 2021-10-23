@@ -1,10 +1,19 @@
 <h1><img src="https://cdn.discordapp.com/emojis/853981345305722880.gif" width="35"/> Hi there, I'm Freiik</h1>
 
-<img align="right" alt="Freiik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=freiikdev&show_icons=true&hide_border=true" />
-
+<a href="https://github.com/FreiikDev"><img align="right" alt="Freiik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FreiikDev&show_icons=true&theme=discord_old_blurple" /></a>
+<a href="https://github.com/FreiikDev"><img align="left" alt="Freiik's Github Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreiikDev&layout=compact&theme=discord_old_blurple" /></a>
+\
+&nbsp;
+\
+&nbsp;
+\
+&nbsp;
+\
+&nbsp;
+\
+&nbsp;
 - 💻 High school student @ Developer
 - 🥖 I love french bread
-
 ---
 
 ## 🌍 Programming languages:
@@ -23,13 +32,19 @@
 ---
 
 ## 🚩 Projects:
-- [DJS-Giveaways](https://github.com/FreiikDev/djs-giveaways)
-- [Screenshot Embedder](https://github.com/FreiikDev/ScreenshotEmbedder)
-- [Discord-Addons <img src="https://discord-addons.js.org/img/favicon.png" width="24"/>](https://discord-addons.js.org/)
+<div align="center"> 
+<a href="https://github.com/FreiikDev/ScreenshotEmbedder">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FreiikDev&repo=ScreenshotEmbedder&theme=discord_old_blurple" />
+</a>
+<a href="https://github.com/FreiikDev/djs-giveaways">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FreiikDev&repo=djs-giveaways&theme=discord_old_blurple" />
+</a>
+<a href="https://github.com/FreiikDev/discord-addons">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FreiikDev&repo=discord-addons&theme=discord_old_blurple" />
+</a>
 
 ---
 
-<p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/freiikdev/count.svg" />
-</p>
+</div>
