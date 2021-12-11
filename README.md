@@ -1,7 +1,7 @@
 <h1><img src="https://cdn.discordapp.com/emojis/853981345305722880.gif" width="35"/> Hi there, I'm Freiik</h1>
 <img align="right" alt="Freiik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=freiikdev&show_icons=true&hide_border=true&theme=vision-friendly-dark" />
 
-- 💻 High school student @ Developer
+- 💻 High school student
 - 🥖 I love french bread
 
 ---
