@@ -1,4 +1,4 @@
-<h1><img src="https://cdn.discordapp.com/emojis/853981345305722880.gif" width="35"/> Hi there, I'm Freiik</h1>
+<h1><img src="https://readme-typing-svg.herokuapp.com?font=&color=%23F7B365&height=30&lines=%F0%9F%91%8B+Hi+there!;%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%8E%93+I'm+Adam+(known+as+Freiik);%E2%A4%B5%EF%B8%8F+See+my+projects+below"/></h1>
 <img align="right" alt="Freiik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=freiikdev&show_icons=true&hide_border=true&theme=vision-friendly-dark" />
 
 - 💻 High school student
