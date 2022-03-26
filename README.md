@@ -25,8 +25,8 @@
 ## 🚩 Projects:
 
 <div align="center"> 
-	<a href="https://github.com/FreiikDev/ScreenshotEmbedder">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=FreiikDev&repo=ScreenshotEmbedder&hide_border=true&theme=vision-friendly-dark" />
+	<a href="https://github.com/FreiikDev/UploadIntegration">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=FreiikDev&repo=UploadIntegration&hide_border=true&theme=vision-friendly-dark" />
 	</a>
 	<a href="https://github.com/FreiikDev/djs-giveaways">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=FreiikDev&repo=djs-giveaways&hide_border=true&theme=vision-friendly-dark" />
