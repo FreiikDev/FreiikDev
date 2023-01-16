@@ -2,6 +2,7 @@
 <div align="center"> 
 	<img align="center" alt="Freiik's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=FreiikDev&count_private=true&hide_border=true&theme=vision-friendly-dark" />
 	<br />
+	<br />
 	<img align="center" alt="Freiik's Discord Profile" src="https://lanyard-profile-readme.vercel.app/api/809849085305421835" />
 </div>
   
