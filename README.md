@@ -1,6 +1,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=&color=%23F7B365&height=30&lines=%F0%9F%91%8B+Hi+there!;%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%8E%93+I'm+Adam+(known+as+Freiik);%E2%A4%B5%EF%B8%8F+See+my+projects+below"/>
 <img align="right" alt="Freiik's Discord Profile" src="https://lanyard-profile-readme.vercel.app/api/809849085305421835" />
-
+<img align="left" alt="Freiik's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=FreiikDev&count_private=true&hide_border=true&theme=vision-friendly-dark" />
+  
 ---
 
 ## 🌍 Skills:
@@ -17,12 +18,12 @@
 
 <div align="center"> 
 	<a href="https://github.com/FreiikDev/UploadIntegration">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=FreiikDev&repo=UploadIntegration&hide_border=true&theme=vision-friendly-dark" />
+	<img src="https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=FreiikDev&repo=UploadIntegration&hide_border=true&theme=vision-friendly-dark" />
 	</a>
 	<a href="https://github.com/FreiikDev/djs-giveaways">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=FreiikDev&repo=djs-giveaways&hide_border=true&theme=vision-friendly-dark" />
+	<img src="https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=FreiikDev&repo=djs-giveaways&hide_border=true&theme=vision-friendly-dark" />
 	</a>
 	<a href="https://github.com/FreiikDev/discord-addons">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=FreiikDev&repo=discord-addons&hide_border=true&theme=vision-friendly-dark" />
+	<img src="https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=FreiikDev&repo=discord-addons&hide_border=true&theme=vision-friendly-dark" />
 	</a>
 </div>
