@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=&color=%23F7B365&height=30&lines=%F0%9F%91%8B+Hi+there!;%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%8E%93+I'm+Adam+(known+as+Freiik);%E2%A4%B5%EF%B8%8F+See+my+projects+below"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=&color=%23F7B365&height=30&lines=%F0%9F%91%8B%F0%9F%8F%BD+Hi+there!;%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%8E%93+I%27m+Adam+(known+as+Freiik);%E2%A4%B5%EF%B8%8F+See+my+profile+below"/>
 <div align="center"> 
 	<img align="center" alt="Freiik's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=FreiikDev&count_private=true&hide_border=true&theme=vision-friendly-dark" />
 	<br />
